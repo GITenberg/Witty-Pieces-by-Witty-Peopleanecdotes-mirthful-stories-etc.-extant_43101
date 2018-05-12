@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43101#Witty-Pieces-by-Witty-Peopleanecdotes-mirthful-stories-etc.-extant
 gutenberg_issued: '2013-07-06'
 gutenberg_type: Text
 identifiers:
