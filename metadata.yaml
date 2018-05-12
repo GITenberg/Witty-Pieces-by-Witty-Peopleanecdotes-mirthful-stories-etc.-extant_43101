@@ -1,0 +1,26 @@
+_repo: Witty-Pieces-by-Witty-Peopleanecdotes-mirthful-stories-etc.-extant_43101
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43101-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2013-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43101'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wit and humor'
+- !lcc 'PN'
+title: "Witty Pieces by Witty People\r\nA collection of the funniest sayings, best\
+  \ jokes, laughable anecdotes, mirthful stories, etc., extant"
+url: http://www.gutenberg.org/ebooks/43101
